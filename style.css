@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: #cccccc;
+}
+
+h1{
+    font-size: 45px;
+    text-align: center;
+    margin: 25px;
+}
+
+h2{
+    font-size: 25px;
+    text-align: center;
+    margin: 40px;
+}
+
+h4{
+    font-size: 17px;
+    text-align: center;
+    margin: 190px;
+}
+
+.kuş{
+    margin: 100px;
+    position:absolute;
+    right: 10px;
+    top: 5px;
+    z-index: 1;
+}
+
+.kedi{
+    margin: 100px;
+    position: absolute;
+    left: 10px;
+    top: 5px;
+    z-index: 1;
+    
+}
+
+.köpek{
+   position: absolute;
+    right: auto;
+   left: 600px;
+   z-index: 1; 
+   margin: auto ;
+   z-index: 1 ;
+   
+    
+}
